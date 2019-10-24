@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "PINOperation",
+        "repositoryURL": "https://github.com/3a4oT/PINOperation.git",
+        "state": {
+          "branch": "swiftPM",
+          "revision": "81bc2dc0e031842422898d4f48a0dd1947b90fa9",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
