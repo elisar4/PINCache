@@ -1,0 +1,1 @@
+{"object": {"dependencies": [{"basedOn": null, "packageRef": {"identity": "pinoperation", "isLocal": false, "name": "PINOperation", "path": "https://github.com/3a4oT/PINOperation.git"}, "state": {"checkoutState": {"branch": "swiftPM", "revision": "81bc2dc0e031842422898d4f48a0dd1947b90fa9", "version": null}, "name": "checkout"}, "subpath": "PINOperation"}]}, "version": 2}
