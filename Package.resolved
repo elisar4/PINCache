@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "PINOperation",
+        "repositoryURL": "https://github.com/elisar4/PINOperation.git",
+        "state": {
+          "branch": "supportSPM",
+          "revision": "0e4365deb30bcfa763f01c6a740336928f0393d2",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
